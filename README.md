@@ -37,7 +37,7 @@ DataWise AI is an **AI-powered data analysis platform** that lets you analyze yo
 
 ![Demo Animation](./docs/images/demo.gif)
 
-**Try it live:** [DataWise AI on Streamlit Cloud](#) _(Coming soon)_
+**Try it live:** [DataWise AI on Streamlit Cloud](#) _(https://datawiseai-zpz7dybylfbtdzpefqhiyp.streamlit.app/)_
 
 **Video Demo:** [Watch on Google Drive](https://drive.google.com/file/d/1kKBmpyrwb2x4uP744o0wxdqydGuBY-Uo/view?usp=sharing)
 
